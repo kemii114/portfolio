@@ -1,2 +1,2 @@
 # portfolio
-I am a Project Manage.
+I am a Project Manager.
