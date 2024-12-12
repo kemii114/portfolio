@@ -51,7 +51,6 @@ Freedcamp has significantly enhanced my ability to manage projects efficiently b
 
 Streamlined task management by allowing me to create, assign, and track tasks and issues efficiently,provides detailed dashboards and reports, which give me a real-time overview of project progress, team performance, and potential bottlenecks,create customized workflows which has helped me tailor the process to fit specific project needs. 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 **ProjectLibre.**
 
@@ -59,7 +58,6 @@ Streamlined task management by allowing me to create, assign, and track tasks an
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
@@ -88,8 +86,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td><a href="https://linkedin.com/in/theophiluskemi">The things I do daily on LinkedIn</a></td>
     </tr>
     <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+  
     </tr>
   </tbody>
 </table>
