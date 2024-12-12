@@ -37,11 +37,9 @@ Contributed significantly to the successful, on-time implementation of Dynamics 
 <!--Section 2: List 3-4 key projects-->
 ## MY PORTFOLIO 
 
-*A glimpse of some of the projects I've done.*
+*A glimpse of some of GoCaboo Expansion Project I've done.*
 
 **Freedcamp Software.**
-
-GoCaboo Expansion Project.
 ![image](1 Freedcamp.jpg)
 
 Freedcamp has significantly enhanced my ability to manage projects efficiently by offering a centralized platform for collaboration, progress tracking, and task management, resulting in smoother project execution and better outcomes.
@@ -49,9 +47,6 @@ Freedcamp has significantly enhanced my ability to manage projects efficiently b
 
 
 **Jira Software.**
-GoCaboo CRM Implementation Project.
-
-
 ![image](2 Jira.jpg)
 
 Streamlined task management by allowing me to create, assign, and track tasks and issues efficiently,provides detailed dashboards and reports, which give me a real-time overview of project progress, team performance, and potential bottlenecks,create customized workflows which has helped me tailor the process to fit specific project needs. 
