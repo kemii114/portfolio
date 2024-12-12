@@ -51,13 +51,13 @@ Freedcamp has significantly enhanced my ability to manage projects efficiently b
 GoCaboo CRM Implementation Project.
 
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](2 Jira.jpg)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+Streamlined task management by allowing me to create, assign, and track tasks and issues efficiently,provides detailed dashboards and reports, which give me a real-time overview of project progress, team performance, and potential bottlenecks,create customized workflows which has helped me tailor the process to fit specific project needs. 
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**ProjectLibre.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
