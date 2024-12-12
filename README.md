@@ -11,16 +11,16 @@ My approach focuses on understanding the unique needs of businesses and working 
 
 *As a project manager,my focus is on helping founders and CEOs achieve strategic goals by streamlining projects, improving business processes, and driving organizational success.*
 
-**- ✅ Resource Allocation & Management.**
+**-📊  Resource Allocation & Management.**
 Ensuring optimal use of resources time, money, and personnel to maximize project impact and minimize waste. 
 
-**- ✅ Strategic Planning & Execution.**. 
+**- 📋  Strategic Planning & Execution.**. 
 Designing project roadmaps that align with business goals, ensuring clarity, focus, and measurable outcomes that drive revenue growth.
 
-**- ✅ Risk Management & Problem Solving.**. 
+**- ⚠️ Risk Management & Problem Solving.**. 
 Identifying potential risks early and developing mitigation strategies, ensuring smooth project execution with minimal disruption.
 
-**- ✅ Team Collaboration & Leadership.**.
+**- 👥  Team Collaboration & Leadership.**.
 Fostering effective communication and collaboration across teams and departments, creating a more productive and motivated workforce.
 
 ## Accomplishment
