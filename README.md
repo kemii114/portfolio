@@ -40,6 +40,7 @@ Contributed significantly to the successful, on-time implementation of Dynamics 
 *A glimpse of some of the projects I've done.*
 
 **Freedcamp Software.**
+
 GoCaboo Expansion Project.
 ![image](1 Freedcamp.jpg)
 
