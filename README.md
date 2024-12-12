@@ -41,14 +41,15 @@ Contributed significantly to the successful, on-time implementation of Dynamics 
 
 **Freedcamp Software.**
 GoCaboo Expansion Project.
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](1 Freedcamp.jpg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+Freedcamp has significantly enhanced my ability to manage projects efficiently by offering a centralized platform for collaboration, progress tracking, and task management, resulting in smoother project execution and better outcomes.
 
 
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Jira Software.**
+GoCaboo CRM Implementation Project.
+
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
