@@ -56,8 +56,7 @@ Streamlined task management by allowing me to create, assign, and track tasks an
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
+Led the successful management of a GoCaboo CRM Implementation project using ProjectLibre. The project involved coordinating multiple teams, managing timelines, and ensuring resource allocation across tasks.Utilized Gantt charts to create a clear visual timeline of the project, making it easier for team members and stakeholders to understand project flow, anticipate deadlines, and manage their roles effectively. 
 
 
 ## CONTACT DETAILS
@@ -85,8 +84,6 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/theophiluskemi">The things I do daily on LinkedIn</a></td>
     </tr>
-    <tr>
-  
-    </tr>
+    
   </tbody>
 </table>
