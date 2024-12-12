@@ -16,15 +16,20 @@ Ensuring optimal use of resources time, money, and personnel to maximize project
 
 **- ✅ Strategic Planning & Execution.**. 
 Designing project roadmaps that align with business goals, ensuring clarity, focus, and measurable outcomes that drive revenue growth.
+
 **- ✅ Risk Management & Problem Solving.**. 
 Identifying potential risks early and developing mitigation strategies, ensuring smooth project execution with minimal disruption.
+
 **- ✅ Team Collaboration & Leadership.**.
 Fostering effective communication and collaboration across teams and departments, creating a more productive and motivated workforce.
+
 ## Accomplishment
 **- ✅ 25%  Collaboration and Communication.**.
 Facilitated communication among stakeholders, including sales teams, management, and IT personnel, ensuring all parties remained consistently informed about project progress, resulting in a increase in stakeholder satisfaction.
+
 **- ✅ 30%  Risk Management Rate.**.
 I have effectively managed project risks by implementing a proactive risk identification and mitigation process, which has reduced project-related issues . By conducting regular risk assessments, closely monitoring potential threats, and escalating critical issues promptly, I’ve ensured timely intervention and minimized disruptions, contributing to smoother project execution and enhanced stakeholder confidence.
+
 **- ✅ 40% CRM Implementation.**.
 Contributed significantly to the successful, on-time implementation of Dynamics 365 Sales, resulting in increased sales team efficiency and improved management of customer data.
 
