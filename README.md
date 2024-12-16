@@ -40,7 +40,7 @@ Contributed significantly to the successful, on-time implementation of Dynamics 
 *A glimpse of some of GoCaboo Expansion Project I've done.*
 
 **Freedcamp Software.**
-![image](1 Freedcamp.jpg)
+![image](1 freedcamp.jpeg)
 
 Freedcamp has significantly enhanced my ability to manage projects efficiently by offering a centralized platform for collaboration, progress tracking, and task management, resulting in smoother project execution and better outcomes.
 
@@ -54,7 +54,7 @@ Streamlined task management by allowing me to create, assign, and track tasks an
 
 **ProjectLibre.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](3 )
 
 Led the successful management of a GoCaboo CRM Implementation project using ProjectLibre. The project involved coordinating multiple teams, managing timelines, and ensuring resource allocation across tasks.Utilized Gantt charts to create a clear visual timeline of the project, making it easier for team members and stakeholders to understand project flow, anticipate deadlines, and manage their roles effectively. 
 
