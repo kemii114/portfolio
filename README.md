@@ -54,7 +54,7 @@ Streamlined task management by allowing me to create, assign, and track tasks an
 
 **ProjectLibre.**
 
-![image](3 )
+![image](3 projectlibre.jpeg)
 
 Led the successful management of a GoCaboo CRM Implementation project using ProjectLibre. The project involved coordinating multiple teams, managing timelines, and ensuring resource allocation across tasks.Utilized Gantt charts to create a clear visual timeline of the project, making it easier for team members and stakeholders to understand project flow, anticipate deadlines, and manage their roles effectively. 
 
