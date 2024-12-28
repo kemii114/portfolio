@@ -24,10 +24,10 @@ Identifying potential risks early and developing mitigation strategies, ensuring
 Fostering effective communication and collaboration across teams and departments, creating a more productive and motivated workforce.
 
 ## Accomplishment
-**- ✅ 25%  Collaboration and Communication.**.
+**- ✅ 30%  Collaboration and Communication.**.
 Facilitated communication among stakeholders, including sales teams, management, and IT personnel, ensuring all parties remained consistently informed about project progress, resulting in a increase in stakeholder satisfaction.
 
-**- ✅ 30%  Risk Management Rate.**.
+**- ✅ 25%  Risk Management Rate.**.
 I have effectively managed project risks by implementing a proactive risk identification and mitigation process, which has reduced project-related issues . By conducting regular risk assessments, closely monitoring potential threats, and escalating critical issues promptly, I’ve ensured timely intervention and minimized disruptions, contributing to smoother project execution and enhanced stakeholder confidence.
 
 **- ✅ 40% CRM Implementation.**.
