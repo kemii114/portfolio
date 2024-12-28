@@ -1,5 +1,5 @@
 <!--Section 1: Introduce your self-->
-## ABOUT ME
+## About Me
 
 I am a dedicated Project Manager with a solid foundation in managing diverse projects, acquired through my experience with GoCaboo.I specialize in helping founders and CEOs achieve their strategic goals by delivering project management solutions that enhance efficiency and drive success.
 
@@ -35,7 +35,7 @@ Contributed significantly to the successful, on-time implementation of Dynamics 
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## My Portfolio 
 
 *A glimpse of some of GoCaboo Expansion Project I've done.*
 
@@ -59,8 +59,7 @@ Streamlined task management by allowing me to create, assign, and track tasks an
 Led the successful management of a GoCaboo CRM Implementation project using ProjectLibre. The project involved coordinating multiple teams, managing timelines, and ensuring resource allocation across tasks.Utilized Gantt charts to create a clear visual timeline of the project, making it easier for team members and stakeholders to understand project flow, anticipate deadlines, and manage their roles effectively. 
 
 
-## CONTACT DETAILS
-
+## Contact Details
 *Let’s connect and see how we can make a difference together!*
 <table>
   <tbody>
