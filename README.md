@@ -76,10 +76,12 @@ Led the successful management of a GoCaboo CRM Implementation project using Proj
       <td>Jos, Nigeria</td>
     </tr>
     <tr>
+      
       <td>⬇️</td>
-      <td><a href="Kemi THeophilus - PM.pdf">Download my CV</a></td>
+      <td><a href="Kemi THeophilus - PM.pdf">Here is my CV</a></td>
     </tr>
     <tr>
+    
       <td>🌐</td>
       <td><a href="https://linkedin.com/in/theophiluskemi">The things I do daily on LinkedIn</a></td>
     </tr>
